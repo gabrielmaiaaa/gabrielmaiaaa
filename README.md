@@ -1,4 +1,4 @@
-### print("Olá! Eu sou Gabriel Maia")
+### print("Hi guys! I'm Gabriel Maia")
 
 - 
 - Python, C
