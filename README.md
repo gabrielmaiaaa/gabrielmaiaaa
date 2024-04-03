@@ -20,6 +20,6 @@
   <a href="https://www.linkedin.com/in/gabriel-maia-ba48a228a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
   <a href="https://www.instagram.com/gamaia_?igsh=MWtzd3Z1cmtuMmhuOQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 
-  ![snake animation](https://github.com/<ConsidereSeGerenciado>/<ConsidereSeGerenciado>/blob/output/github-contribution-grid-snake2.svg)
+  ![snake animation](https://github.com/ConsidereSeGerenciado/ConsidereSeGerenciado/blob/output/github-contribution-grid-snake2.svg)
 
 </div>
