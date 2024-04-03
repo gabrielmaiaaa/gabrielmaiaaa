@@ -21,5 +21,5 @@
   <a href="https://www.instagram.com/gamaia_?igsh=MWtzd3Z1cmtuMmhuOQ==" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
 
   ![snake animation](https://github.com/ConsidereSeGerenciado/ConsidereSeGerenciado/blob/output/github-contribution-grid-snake2.svg)
-
+  
 </div>
