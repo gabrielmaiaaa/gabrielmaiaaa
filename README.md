@@ -23,10 +23,6 @@ $${\color{red}print \space \color{green}('Hello \space World! \space I'm \space 
 
 ##
 
-
-
-##
-
 <div>
 
   ![Snake animation](https://raw.githubusercontent.com/ConsidereSeGerenciado/ConsidereSeGerenciado/output/github-contribution-grid-snake-dark.svg)
