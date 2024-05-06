@@ -8,8 +8,8 @@ $${\color{red}print \space \color{green}('Hello \space World! \space I'm \space 
 ##
 
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ConsidereSeGerenciado&show_icons=true&theme=transparent"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ConsidereSeGerenciado&layout=compact&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmaiaaa&show_icons=true&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaiaaa&layout=compact&theme=transparent"/>
 </div>
 
 ##
@@ -25,6 +25,6 @@ $${\color{red}print \space \color{green}('Hello \space World! \space I'm \space 
 
 <div>
 
-  ![Snake animation](https://raw.githubusercontent.com/ConsidereSeGerenciado/ConsidereSeGerenciado/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://raw.githubusercontent.com/gabrielmaiaaa/gabrielmaiaaa/output/github-contribution-grid-snake-dark.svg)
     
 </div>
