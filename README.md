@@ -1,4 +1,6 @@
-$${\color{red}print \space \color{green}('Hello \space World! \space I'm \space \color{yellow}{Gabriel Maia}} \color{green}')$$
+<!-- $${\color{red}print \space \color{green}('Hello \space World! \space I'm \space \color{yellow}{Gabriel Maia}} \color{green}')$$ -->
+
+![gitartwork](gitartwork.svg)
 
 <div align="center">
   <a href="https://www.linkedin.com/in/gabrielmaiaaa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
