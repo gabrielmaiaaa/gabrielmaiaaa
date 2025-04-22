@@ -25,6 +25,11 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=gabrielmaiaaa&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaiaaa&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!--
+## 🐍 Snake
+![Snake animation](https://raw.githubusercontent.com/gabrielmaiaaa/gabrielmaiaaa/output/github-contribution-grid-snake-dark.svg)
+-->
+
 ## 👾 Pac-man
 ![Snake animation](https://raw.githubusercontent.com/gabrielmaiaaa/gabrielmaiaaa/output/pacman-contribution-graph-dark.svg)
 
